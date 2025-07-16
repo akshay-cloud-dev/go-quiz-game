@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # go-quiz-game
-=======
+
 # 🧠 Tech Quiz Game in Go
 
 Welcome to a command-line quiz game built with Go! This mini-project is designed to test your tech knowledge with a series of fun and engaging questions.
@@ -24,11 +24,11 @@ Welcome to a command-line quiz game built with Go! This mini-project is designed
    git clone https://github.com/yourusername/quiz-game-go.git
    cd quiz-game-go
 
-
+
 - Run the program
 go run quiz.go
 - Follow the prompts
 - Enter your name and age
 - Answer all questions
 - Receive your final score and percentag
->>>>>>> c41df3e (Initial Commit: Go Quiz Game)
+
